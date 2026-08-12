@@ -1,4 +1,4 @@
-# 🍔 The Foodie Wagon
+#  The Foodie Wagon
 
 <div align="center">
 
