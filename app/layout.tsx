@@ -20,6 +20,11 @@ export const metadata: Metadata = {
     default: 'Premium Halal',
     template: '%s | The Foodie Wagon'
   },
+    icons: {
+    icon: '/brand-image.svg',
+    shortcut: '/brand-image.svg',
+    apple: '/brand-image.svg',
+  },
   description:
     "Entdecke The Foodie Wagon - Dein Food Truck für premium hausgemachte Halal Burger, knuspriges Fried Chicken, Currywurst und authentisches Street Food in Ingolstadt. 100% Halal zertifiziert. Jetzt bestellen!",
   keywords: [
